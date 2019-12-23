@@ -17,5 +17,5 @@ DC Jack | 1
 3.5mm DC Jack - 90&deg; | 1
 M2.5 Nylon Standoff and Nut | 8
 M2.5 x 5mm bolt | 8
-Assorted Zipties | 
 1/4" Wire Loom | 2 ft
+Assorted Zipties | 
