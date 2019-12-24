@@ -32,8 +32,8 @@ In addition to all of the purchased components, there are various 3D printed and
 ### 3D Printed Parts
 Part File Name | Quantity | Notes
 -------- | -------- | --------
-belt\_bracket.STL | 3 | Onyx is prefered as these will be tapped and support the whole weight of the beacon.
-belt\_bracket\_top.STL | 3 | Onyx is prefered as these will be tapped and support the whole weight of the beacon.
+belt\_bracket.STL | 3 | Onyx is prefered as these will be tapped<br>and support the whole weight of the beacon.
+belt\_bracket\_top.STL | 3 | Onyx is prefered as these will be tapped<br>and support the whole weight of the beacon.
 
 Assuming that assembly of the beacons have begun, you should not have to lasercut the gantry gripper piece nor the limit switch mounts. For these parts use 1/4" acrylic. All the other parts needed have been organized into a larger file to be cut out of a 12"x24" sheet. Each sheet will produce 5 of the 3 required gantry plates, and 2 of the 1 required stepper motor plate. This means that eventually 3 more of the gantry plates will need to be cut out. The individual files are also included in the directory DXF\_FULL.
 
@@ -57,4 +57,4 @@ deployment\_sheet.DXF | 1 | Use a full 1/4"x12"x24" sheet of acrylic
 Begin by tapping the ends of the 10" 2020 extrusions with an M5 tap. Assemble the frame as is shown in the drawing, below.
 
 ![Frame Assembly]
-(assembly_photos/frame_assem_drawing.PDF)
+(https://github.com/greg-lund/marble_beacon/blob/master/assembly_photos/frame_assem_drawing.PDF)
