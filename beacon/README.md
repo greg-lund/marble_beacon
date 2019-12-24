@@ -41,7 +41,7 @@ beacon\_sheet\_1.DXF | 1 | Use a full 12"x24" sheet
 beacon\_sheet\_2.DXF | 1 | Use a full 12"x24" sheet
 electronics\_core.DXF | 1 | Either use scrap or fit 2 on a sheet
 
-If an individual part's DXF is required they can be found in the FULL\_DXF directory.
+If an individual part's DXF is required it can be found in the FULL\_DXF directory.
 
 ## Step 1: Assembling the Acrylic Box
 
@@ -63,9 +63,9 @@ Once the glue on the side panels has cured, glue all the pieces together, ensuri
 - 206485 Circular Connector, Wire Mount 
 - Assorted Wire
 
-Begin by soldering long wires onto all of the used terminals of the pushbutton, dc jack and switches. Use thicker guage for the GND, +12V and Battery connections.
+Begin by soldering long wires onto all of the used terminals of the pushbutton, dc jack and switches. Use thicker guage for the GND, +12V and battery connections.
 
-##### 206485 Connector Pinout
+#### 206485 Connector Pinout
 Pin | Connection
 -------- | --------
 1 | +12V

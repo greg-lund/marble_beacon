@@ -57,3 +57,30 @@ deployment\_sheet.DXF | 1 | Use a full 1/4"x12"x24" sheet of acrylic
 Begin by tapping the ends of the 10" 2020 extrusions with an M5 tap. Assemble the frame as is shown in the drawing, below.
 
 ![frame_assembly](https://raw.githubusercontent.com/greg-lund/marble_beacon/master/assembly_photos/frame_assem_drawing.png)
+
+## Step 2: Stepper Motor Mounting
+
+#### Parts Needed:
+- Stepper plate acrylic panel
+- 3 x Nema 17 stepper motors
+- 3 x Stepper motor bracket
+- 3 x 16 tooth GT2 pulley
+- 3 x T-nut and bolt
+- 12 x M4 x 10mm Bolt and Nut
+- 12 x M3 x 8mm Bolt and Nut
+- 2020 frame assembly
+
+Begin by attatching the motor brackets, as well as motors to the acrylic plate. Use the M4 and M3 screws here. Attach the motor assembly to the top of the frame assembly via the t-nuts and M5 holes in the plate. Attatch the pulleys at any point.
+
+## Step 3: Fork Subassemblies
+
+#### Parts Needed:
+- 9 x 6" 2020 
+- 6 x 3" 2020
+- 18 x 90&deg; 2020 bracket
+- 33 x T-nut and bolt
+- 3 x Side plate acrylic panel
+- 3 x Gantry gripper acrylic panel
+- 18 x M5 x 40mm bolt
+- 18 x 20mm M5 spacer
+- 18 x V-Wheel kit
