@@ -56,4 +56,4 @@ deployment\_sheet.DXF | 1 | Use a full 1/4"x12"x24" sheet of acrylic
 
 Begin by tapping the ends of the 10" 2020 extrusions with an M5 tap. Assemble the frame as is shown in the drawing, below.
 
-![frame_assembly](assembly_photos/frame_assem_drawing.png)
+![frame_assembly](https://raw.githubusercontent.com/greg-lund/marble_beacon/master/assembly_photos/frame_assem_drawing.png)
