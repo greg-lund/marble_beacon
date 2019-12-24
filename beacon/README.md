@@ -47,5 +47,23 @@ If an individual part's DXF is required they can be found in the FULL\_DXF direc
 
 #### Parts Needed:
 - The four acrylic side panels
-- bottom acrylic panel
+- Bottom acrylic panel
+- 12 electronics core rail 3D prints
+
+Begin by gluing the electronics core rail to the two identical, larger side panels. If you can't find a side plate raile template piece, lasercut one out. Line up the template with a side plate, and attach it via the two M3 screw holes. Either use superglue or acrylic cement to glue the 6 rail pieces to the plate. Don't forget to use clamps and ensure the flanges are facing eachother. Do the same on the other side, ensuring they are opposite and will fit up together.
+
+Once the glue on the side panels has cured, glue all the pieces together, ensuring that the mounting holes for the switches and charging ports are on top and that the holes in the base plate are opposite those ports. Use either superglue or acrylic cement. Tape or clamp everything together ensuring that everything is square.
+
+
+## Step 2: Assembling the Electronics Core
+
+#### Parts Needed:
+- Electronics core acrylic panel
+- Battery
+- Rock64
+- Latching Relay
+- Step-down converter
+- Doodle radio
+- M2.5 standoffs and screws
+ 
 
