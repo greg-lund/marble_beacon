@@ -5,4 +5,4 @@ For completion of this project, 20 beacons will be manufactured as well as 6-8 m
 Instructions and files for the beacon are located in the beacon directory. The same is true for the deployment system. 
 
 ### BOM
-The individual instruction pages include required parts, but an extensive bill of materials can be found here: <a href="https://docs.google.com/spreadsheets/d/1t7GFp-e4R7KjWGMSAGMCT9jzbI4BLS0B_l41IRGNlJQ/edit?usp=sharing">BOM</a>.
+The individual instruction pages include required parts, but an extensive bill of materials can be found here: <a href="https://docs.google.com/spreadsheets/d/1t7GFp-e4R7KjWGMSAGMCT9jzbI4BLS0B_l41IRGNlJQ/edit?usp=sharing" target="_blank">BOM</a>.

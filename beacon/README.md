@@ -54,8 +54,31 @@ Begin by gluing the electronics core rail to the two identical, larger side pane
 
 Once the glue on the side panels has cured, glue all the pieces together, ensuring that the mounting holes for the switches and charging ports are on top and that the holes in the base plate are opposite those ports. Use either superglue or acrylic cement. Tape or clamp everything together ensuring that everything is square.
 
+## Step 2: Wiring the Acrylic Box
 
-## Step 2: Assembling the Electronics Core
+#### Parts Needed:
+- Pushbutton
+- DC Jack
+- 2 x DPDT Switch
+- 206485 Circular Connector, Wire Mount 
+- Assorted Wire
+
+Begin by soldering long wires onto all of the used terminals of the pushbutton, dc jack and switches. Use thicker guage for the GND, +12V and Battery connections.
+
+##### 206485 Connector Pinout
+Pin | Connection
+-------- | --------
+1 | +12V
+2 | Battery Positive
+3 | +3.3V
+4 | SET
+5 | GND
+6 | UNSET
+7 | Pi2: 3
+8 | Pi2: 5
+9 | NC
+
+## Step 3: Assembling the Electronics Core
 
 #### Parts Needed:
 - Electronics core acrylic panel
@@ -66,4 +89,5 @@ Once the glue on the side panels has cured, glue all the pieces together, ensuri
 - Doodle radio
 - M2.5 standoffs and screws
  
+Begin by screwing all of the standoffs on to the electronics core panel. Zip tie the battery and radio, then screw down the rest of the components as shown. 
 
