@@ -43,27 +43,19 @@ electronics\_core.DXF | 1 | Either use scrap or fit 2 on a sheet
 
 If an individual part's DXF is required it can be found in the FULL\_DXF directory.
 
-## Step 1: Assembling the Acrylic Box
-
-#### Parts Needed:
-- The four acrylic side panels
-- Bottom acrylic panel
-- 12 electronics core rail 3D prints
-
-Begin by gluing the electronics core rail to the two identical, larger side panels. If you can't find a side plate raile template piece, lasercut one out. Line up the template with a side plate, and attach it via the two M3 screw holes. Either use superglue or acrylic cement to glue the 6 rail pieces to the plate. Don't forget to use clamps and ensure the flanges are facing eachother. Do the same on the other side, ensuring they are opposite and will fit up together.
-
-Once the glue on the side panels has cured, glue all the pieces together, ensuring that the mounting holes for the switches and charging ports are on top and that the holes in the base plate are opposite those ports. Use either superglue or acrylic cement. Tape or clamp everything together ensuring that everything is square.
-
-## Step 2: Wiring the Acrylic Box
+## Step 1: Wiring the Front Panel
 
 #### Parts Needed:
 - Pushbutton
-- DC Jack
-- 2 x DPDT Switch
-- 206485 Circular Connector, Wire Mount 
-- Assorted Wire
+- DC jack
+- 2 x DPDT switch
+- 206485 circular connector, wire mount 
+- Front acrylic panel
+- Assorted wire
 
-Begin by soldering long wires onto all of the used terminals of the pushbutton, dc jack and switches. Use thicker guage for the GND, +12V and battery connections.
+Begin by soldering long wires onto all of the used terminals of the pushbutton, dc jack and switches. Use thicker guage for the GND, +12V and battery connections on the pushbutton and DC jack.
+
+Mount all the components onto the front panel as shown in the photo below. Make connections and crimp connectors for the 206485 socket contacts according to the pinouts below.
 
 #### 206485 Connector Pinout
 Pin | Connection
@@ -77,6 +69,19 @@ Pin | Connection
 7 | Pi2: 3
 8 | Pi2: 5
 9 | NC
+
+![front panel](https://raw.githubusercontent.com/greg-lund/marble_beacon/master/assembly_photos/front_panel_schematic.png)
+
+## Step 2: Assembling the Acrylic Box
+
+#### Parts Needed:
+- The four acrylic side panels(including the wired front panel)
+- Bottom acrylic panel
+- 12 electronics core rail 3D prints
+
+Begin by gluing the electronics core rail to the two identical, larger side panels. If you can't find a side plate raile template piece, lasercut one out. Line up the template with a side plate, and attach it via the two M3 screw holes. Either use superglue or acrylic cement to glue the 6 rail pieces to the plate. Don't forget to use clamps and ensure the flanges are facing eachother. Do the same on the other side, ensuring they are opposite and will fit up together.
+
+Once the glue on the side panels has cured, glue all the pieces together, ensuring that the mounting holes for the switches and charging ports are on top and that the holes in the base plate are opposite those ports. Use either superglue or acrylic cement. Tape or clamp everything together ensuring that everything is square.
 
 ## Step 3: Assembling the Electronics Core
 
