@@ -70,7 +70,7 @@ Pin | Connection
 8 | Pi2: 5
 9 | NC
 
-![front panel](https://raw.githubusercontent.com/greg-lund/marble_beacon/master/assembly_photos/front_panel_schematic.png)
+<img src="https://raw.githubusercontent.com/greg-lund/marble_beacon/master/assembly_photos/front_panel_schematic.png" width=400>
 
 ## Step 2: Assembling the Acrylic Box
 
