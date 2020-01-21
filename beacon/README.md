@@ -86,13 +86,17 @@ Once the glue on the side panels has cured, glue all the pieces together, ensuri
 #### Parts Needed:
 - Electronics core acrylic panel
 - Battery
+- XT60 pin and socket
 - Rock64
-- Latching Relay
+- Latching relay
 - Step-down converter
 - Doodle radio
+- 206485 panel mount connector 
+- 12 pin molex (5040511201)
+- RJ45 connector
 - M2.5 standoffs and screws
  
-Begin by screwing all of the standoffs on to the electronics core panel. Zip tie the battery and radio, then screw down the rest of the components as shown. 
+Begin by screwing all of the standoffs on to the electronics core panel. Zip tie the battery and radio, then screw down the rest of the components as shown. Solder a XT60 connector to the battery.
 
 Wire all of the components together and crimp connections for the 206485 connector as well as the RJ45 connector. Follow the schematic below and the pinout for the 206485 connector above. Pinout diagrams for the doodle radio and RJ45 connector can be found in the wiring folder.
 
