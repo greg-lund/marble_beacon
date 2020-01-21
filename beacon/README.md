@@ -7,15 +7,18 @@ Part | Quantity
 -------- | --------
 Power Antenna | 1
 Rock64 with eMMC | 1
-Batter Pack | 1
+Battery Pack | 1
 Doodle Radio | 1
 12V to 5V Automotive Regulator | 1
 FeatherLight Latching Relay | 1
 Pushbutton with Light | 1
 DPDT Switch | 2
 DC Jack | 1
-3 Pin Molex (Male + Female) | 1
-9 Pin Circular Connector (Male + Female) | 1
+XT60 Connector (Male + Female) | 1
+12 pin molex connector with wires (5040511201) | 1
+4 Pin Molex (Male + Female) | 1
+206485 9 Pin Circular Connector (Male + Female) | 1
+RJ45 Connector | 1
 3.5mm DC Jack - 90&deg; | 1
 M2.5 Nylon Standoff and Nut | 8
 M2.5 x 5mm bolt | 8
@@ -92,7 +95,7 @@ Once the glue on the side panels has cured, glue all the pieces together, ensuri
 - Step-down converter
 - Doodle radio
 - 206485 panel mount connector 
-- 12 pin molex (5040511201)
+- 12 pin molex connector with wires (5040511201)
 - RJ45 connector
 - M2.5 standoffs and screws
  
