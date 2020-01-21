@@ -37,11 +37,9 @@ The lasercut parts for a single beacon have been organized into larger files to 
 ### Lasercut Parts
 Part's File Name | Quantity | Notes
 -------- | -------- | --------
-beacon\_sheet\_1.DXF | 1 | Use a full 12"x24" sheet
-beacon\_sheet\_2.DXF | 1 | Use a full 12"x24" sheet
-electronics\_core.DXF | 1 | Either use scrap or fit 2 on a sheet
+beacon\_sheet.DXF | 1 | Use a full 18"x24" sheet
 
-If an individual part's DXF is required it can be found in the FULL\_DXF directory.
+The beacon\_sheet.DXF file has all of the lasercut components to create a single beacon. Take care in aligning the cut as the pieces are a tight fit on the sheet. If an individual part's DXF is required it can be found in the FULL\_DXF directory.
 
 ## Step 1: Wiring the Front Panel
 
