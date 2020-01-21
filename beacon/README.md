@@ -68,7 +68,7 @@ Pin | Connection
 8 | Pi2: 5
 9 | NC
 
-<img src="https://raw.githubusercontent.com/greg-lund/marble_beacon/master/assembly_photos/front_panel_schematic.png" width=240>
+<img src="https://raw.githubusercontent.com/greg-lund/marble_beacon/master/assembly_photos/front_panel_schematic.png" width=800>
 
 ## Step 2: Assembling the Acrylic Box
 
@@ -94,3 +94,6 @@ Once the glue on the side panels has cured, glue all the pieces together, ensuri
  
 Begin by screwing all of the standoffs on to the electronics core panel. Zip tie the battery and radio, then screw down the rest of the components as shown. 
 
+Wire all of the components together and crimp connections for the 206485 connector as well as the RJ45 connector. Follow the schematic below and the pinout for the 206485 connector above. Pinout diagrams for the doodle radio and RJ45 connector can be found in the wiring folder.
+
+<img src="https://raw.githubusercontent.com/greg-lund/marble_beacon/master/assembly_photos/electronics_core_schematic.png" width=800>
