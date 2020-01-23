@@ -13,7 +13,7 @@ Nema 17 Stepper Motor | 3
 Stepper Motor Bracket | 3
 GT2 Pulley - 16 Tooth | 3
 GT2 Idler Kit | 1
-GT2 Belt 102.5mm | 3
+GT2 Belt x 102.5mm | 3
 V-Wheel Kit | 18
 M5 x 40mm Bolt | 18
 M5 x 16mm Bolt | 9
